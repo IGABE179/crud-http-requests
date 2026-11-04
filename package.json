@@ -1,0 +1,15 @@
+{
+  "name": "crud-http-requests",
+  "version": "1.0.0",
+  "description": "Full CRUD operations with fetch and axios against the JSONPlaceholder test API",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "fetch": "node fetch-demo.js",
+    "start": "node index.js",
+    "axios": "node axios-demo.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
+}
